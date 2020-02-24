@@ -1,0 +1,44 @@
+{
+  "id": "1637044",
+  "name": "system",
+  "font_family": "iconfont",
+  "css_prefix_text": "el-icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10239793",
+      "name": "box",
+      "font_class": "box",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "1295198",
+      "name": "list",
+      "font_class": "dingdan",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "1893017",
+      "name": "商品",
+      "font_class": "shangpin",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "7586723",
+      "name": "User settings",
+      "font_class": "yuangongqudaoAPP-wodekehu",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "9068236",
+      "name": "Screen Presentation F",
+      "font_class": "ScreenPresentationF",
+      "unicode": "f977",
+      "unicode_decimal": 63863
+    }
+  ]
+}
